@@ -22,7 +22,7 @@ python number_guess.py
 
 ## ⚙️ Installation
 ```bash
-git clone https://github.com/your-username/number-guess-game.git
+git clone https://github.com/Parsa-developer/Number-Guess.git
 cd number-guess-game
 pip install -r requirements.txt
 ```
